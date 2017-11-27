@@ -1,0 +1,14 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.icono svg{
+	width: 100%;
+	height: 100px;
+	background-color: #ff6f72;
+}
+
+
+
